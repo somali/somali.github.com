@@ -1,6 +1,5 @@
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock"]
 auto: true
-pygments: true
 
 title : Rails Girls Guide -Japanese- // test
 tagline: Site Tagline
