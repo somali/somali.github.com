@@ -51,7 +51,7 @@ Rails の scaffold 機能を使って、最初の一歩となる list, add, remo
 
 **Coachより:** scaffold とはなんでしょう (1. ただのコマンド, 2. モデル名でDBテーブルと関係があるもの;命名規約 , 3. 属性や型)？ また、migration 機能が何で、いつ必要なものですか？それはいつですか？なぜ？
 
-``` sh
+```
 rails generate scaffold idea name:string description:text picture:string
 rake db:migrate
 rails s
