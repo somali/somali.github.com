@@ -29,7 +29,7 @@ permalink: app
 
 そして、次のコマンドを入力します。 :
 
-``` sh
+```
 mkdir projects
 cd projects
 rails new railsgirls
